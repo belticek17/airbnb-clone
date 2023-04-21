@@ -16,4 +16,4 @@ $ yarn watch # npm run watch
 
 ## Run
 
-Visit  to see my second React app
+Visit https://beamish-cuchufli-c31ce0.netlify.app to see my second React app
